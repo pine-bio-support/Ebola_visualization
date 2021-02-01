@@ -1,0 +1,2 @@
+/export-data/users/ftp/support@pine.bio/uploads/Ebola/ebola_zaire_2015.fa
+/export-data/users/ftp/support@pine.bio/uploads/Ebola/ebola_zaire_2015.gff
